@@ -1,3 +1,5 @@
-Primarily Hooves Calculator Version 8 — branded with official PH logo.
-Upload ALL files inside this folder to the ROOT of your GitHub repository (index.html must be at root).
-Enable GitHub Pages from main branch / (root). Open HTTPS Pages URL on iPhone Safari, Share > Add to Home Screen. Visit online once to cache offline assets.
+Primarily Hooves Calculator — Version 9
+
+Changes: Appointment total amount is displayed on a separate line on narrow phone screens. The offline service worker now refreshes the HTML when online and retains offline fallback. All prices and calculations are unchanged.
+
+Upload ALL files in this folder to the ROOT of your existing GitHub repository, replacing matching files.
